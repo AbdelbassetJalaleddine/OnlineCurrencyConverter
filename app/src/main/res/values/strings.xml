@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Online Currency Converter</string>
+    <string name="type_the_number">Type the number</string>
+    <string name="convert">Convert</string>
+    <string name="button">Button</string>
+    <string name="currency">Currency</string>
+    <string name="swap_button">Swap Button</string>
+    <string name="result">Result</string>
+</resources>
